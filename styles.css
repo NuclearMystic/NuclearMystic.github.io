@@ -211,3 +211,17 @@ header h2 {
     color: rgb(255, 255, 0);  
     font-size: 16px;
 }
+
+        .slideshow-container {
+            float: right;
+            margin-left: 20px;
+        }
+
+        .slide {
+            display: none;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
